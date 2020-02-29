@@ -1,9 +1,9 @@
 # Theory Of Computation
 Summaries about how efficiently problems can be solved using algorithms. 
 
-## [Terminology](Terminology.md)
-## [ToDo](ToDo.md)
-## [Symbols](Symbols.md) 
+## [Terminology](Pages/Terminology.md)
+## [ToDo](Pages/ToDo.md)
+## [Symbols](Pages/Symbols.md) 
 
 ### Notes
 
