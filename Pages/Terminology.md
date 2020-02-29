@@ -1,4 +1,4 @@
-# [Home](README.md) 
+# [Home](../README.md) 
 ## Sets
 
 * The objects in a set are called its elements or members
