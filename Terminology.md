@@ -2,7 +2,7 @@
 ## Sets
 
 * The objects in a set are called its elements or members
-* We write 7 E {2,7,8} and 5 E {2,7,8}
+* We write 7 &#8712; {2,7,8} and 5 &#8712; {2,7,8}
   * {2,7,8} is a set
 * A is a subset of B, written A ⊆ B, if every member of A also is a member of B
 * A is a proper subset of B, written A ⊊ B, if A is a subset of B ant not equal to B
