@@ -1,6 +1,8 @@
 # [Home](../README.md) 
 
-## ToDo List
+## Symbols
+
+The repository page of necessary symbols 
 
 Symbol | Name
 -- | --
