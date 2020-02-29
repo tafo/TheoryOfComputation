@@ -7,7 +7,7 @@ Summaries about how efficiently problems can be solved using algorithms.
 
 ### Notes
 
-This is also a practice to improve my English language skills by trying to use a single short sentence. 
+This is also a practice repository for Markdown, etc. 
 
 ### Remarks
 
