@@ -19,3 +19,8 @@
 * The intersection of A and B is written A &#8745; B	
   * The set of elements that are in both A and B
 * The complement of A, written A' or A<sup>c</sup>, is the set of all elements under consideration that are not in A
+## Venn Diagram
+* It represents sets as regions enclosed by circular lines
+* Overlapping circles indicate common elements
+  * Overlapping region is called intersection
+* Check https://en.wikipedia.org/wiki/Venn_diagram 
