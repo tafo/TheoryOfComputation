@@ -35,5 +35,5 @@
     * The set of all pairs whose elements are 0s and 1s is {{0,0}, {0,1}, {1,0}, {1,1}}
 * The "power set" of A is the all subsets of A
   * Thus if A is the set {0,1}, the power set of A is the set {&#8709;, 0, 1, {0,1}}
-* If A and B are two sets, the "cartesian product" or "cross product" of A and B, written "AxB"
+* If A and B are two sets, the "cartesian product" or "cross product" of A and B is written as "AxB"
   * "AxB" is the set of all pairs wherein "the first element &#8712; A" and "the second element &#8712; B"
