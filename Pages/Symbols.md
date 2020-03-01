@@ -5,7 +5,7 @@
 The repository page of necessary symbols 
 
 Symbol | Name | Remarks
--- | --
+-- | -- | --
 &#8712; | Element Of
 &#8713; | Not An Element Of
 &#8834; | Subset of
@@ -17,4 +17,4 @@ Symbol | Name | Remarks
 &#0178; | Superscript Two
 &#8746; | Union
 &#8745; | Intersection
-&#8705; | Complement | "X<sup>c</sup> is more frequent than X&#8705;
+&#8705; | Complement | X<sup>c</sup> is more frequent than X&#8705;
