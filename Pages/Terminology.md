@@ -49,7 +49,7 @@
 * A function F : X &#8594; Y is "onto" if there is an x(in X) for very y(in Y) such that F(x) = y
 * The set of integers modulo n is written &#8484;&#8345; = {0, 1, ..., n-1}
 * If the input to F is a k-tuple, we call it the "arguments" to F
-  * A function with k arguments is called a "k-ary function", and k is called the "arity" of the function
+  * A function with n arguments is called a "n-ary function", and n is called the "arity" of the function
   * If k is 1, F is then called a "unary" function
   * If k is 2, F is then called a "binary" function
     * Certain familiar binary functions are written in a special infix notation rather than in prefix notation
