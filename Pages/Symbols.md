@@ -25,3 +25,4 @@ Symbol | Name | Remarks
 &#8319; | Superscript Latin Small Letter N | A&#8319; >> The n-ary cross product of A
 &#8345; | Latin Subscript Small Letter N | a&#8345; >> The nth element of A
 &#7522; | Latin Subscript Small Letter I | a&#7522; >> An element of A
+&#8594; | Rightwards Arrow | A &#8594; B
