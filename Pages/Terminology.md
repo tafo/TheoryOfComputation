@@ -40,3 +40,23 @@
   * Cartesian product of a set with itself is written as A&#8319;
     * A&#8319; = (n times) Ax...xA = {(a&#8321;, a&#8322;, ..., a&#8345;) | a&#7522; &#8712; A for every i &#8712; {1,...,n}}
     * It is also called as the "n-ary cartesian power" of A
+## Functions and Relations
+* A function is also called a mapping
+  * if F(a) = b, we say that "F maps a to b"
+* The set of possible inputs to a function is called its "domain"
+* The outputs of a function come from a set called its "range"
+  * Thus "F is a function with domain D and range R" denoted F : D &#8594; R
+* A function F : X &#8594; Y is "onto" if there is an x(in X) for very y(in Y) such that F(x) = y
+* The set of integers modulo n is written &#8484;&#8345; = {0, 1, ..., n-1}
+* If the input to F is a k-tuple, we call it the "arguments" to F
+  * A function with k arguments is called a "k-ary function", and k is called the "arity" of the function
+  * If k is 1, F is then called a "unary" function
+  * If k is 2, F is then called a "binary" function
+    * Certain familiar binary functions are written in a special infix notation rather than in prefix notation
+      * The addition function usually is written x+y, instead of add(x+y)
+* A predicate is a function whose range is {TRUE, FALSE}
+* A predicate whose domain is a set of k-tuples is called a k-ary relation
+  * A 2-ary relation is called a binary relation
+    * According to the set {Scissors, Paper, Stone} and relation beats
+      * Scissors beat Paper, Paper beats Stone, Stone beats Scissors
+    * A binary relation R is an "equivalence relation" if R is reflexive, symmetric and transitive
