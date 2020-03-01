@@ -8,4 +8,4 @@
 * Fix references (citations)
   * https://en.wikipedia.org/wiki/Wikipedia:Citing_sources
   * https://en.wikipedia.org/wiki/Wikipedia:Citing_Wikipedia
-  
+* Add other references >> Web pages, etc. 
