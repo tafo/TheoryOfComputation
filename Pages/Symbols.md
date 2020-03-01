@@ -17,7 +17,6 @@ Symbol | Name | Remarks
 &#0178; | Superscript Two
 &#8746; | Union
 &#8745; | Intersection
-&#8745; | Intersection
 &#8705; | Complement | "X<sup>c</sup> is more frequent than X&#8705;
 &#7503; | Modifier Letter Small K | "A" To the power of k"
 &#0739; | Modifier Letter Small X | "(A) To the power of x"
