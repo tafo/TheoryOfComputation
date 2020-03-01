@@ -37,3 +37,6 @@
   * Thus if A is the set {0,1}, the power set of A is the set {&#8709;, 0, 1, {0,1}}
 * If A and B are two sets, the "cartesian product" or "cross product" of A and B is written as "AxB"
   * "AxB" is the set of all pairs wherein "the first element &#8712; A" and "the second element &#8712; B"
+  * Cartesian product of a set with itself is written as A&#8319;
+    * A&#8319; = (n times) Ax...xA = {(a&#8321;, a&#8322;, ..., a&#8345;) | a&#7522; &#8712; A for every i &#8712; {1,...,n}}
+    * It is also called as the "n-ary cartesian power" of A
