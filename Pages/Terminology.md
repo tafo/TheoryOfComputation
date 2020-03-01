@@ -19,3 +19,24 @@
 * The intersection of A and B is written A &#8745; B	
   * The set of elements that are in both A and B
 * The complement of A, written A' or A<sup>c</sup>, is the set of all elements under consideration that are not in A
+## Venn Diagram
+* It represents sets as regions enclosed by circular lines
+* Overlapping circles indicate common elements
+  * Overlapping region is called intersection
+* Check https://en.wikipedia.org/wiki/Venn_diagram 
+## Sequences
+* We usually designate a sequence by writing the list within parantheses
+* The sequence 2,3,5 is written as (2,3,5)
+* In a set, the order of elements doesn't matter. But, it is important in a sequence
+  * Repetition does also matter in a sequence
+* Finite sequences often are called "tuples"
+  * A sequence with k elements is a k-tuple
+  * A 2-tuple is also called a "pair"
+    * The set of all pairs whose elements are 0s and 1s is {{0,0}, {0,1}, {1,0}, {1,1}}
+* The "power set" of A is the all subsets of A
+  * Thus if A is the set {0,1}, the power set of A is the set {&#8709;, 0, 1, {0,1}}
+* If A and B are two sets, the "cartesian product" or "cross product" of A and B is written as "AxB"
+  * "AxB" is the set of all pairs wherein "the first element &#8712; A" and "the second element &#8712; B"
+  * Cartesian product of a set with itself is written as A&#8319;
+    * A&#8319; = (n times) Ax...xA = {(a&#8321;, a&#8322;, ..., a&#8345;) | a&#7522; &#8712; A for every i &#8712; {1,...,n}}
+    * It is also called as the "n-ary cartesian power" of A

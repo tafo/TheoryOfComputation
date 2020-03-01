@@ -9,3 +9,4 @@
   * https://en.wikipedia.org/wiki/Wikipedia:Citing_sources
   * https://en.wikipedia.org/wiki/Wikipedia:Citing_Wikipedia
 * Add other references >> Web pages, etc. 
+* Add more detail about Venn Diagram
