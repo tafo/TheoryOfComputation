@@ -61,7 +61,7 @@
       * Scissors beat Paper, Paper beats Stone, Stone beats Scissors
     * A binary relation R is an "equivalence relation" if R is reflexive, symmetric and transitive
 ## Graph
-* A Graph is a set of points with lines connecting some of the points
+* A graph is a set of points with lines connecting some of the points
   * The points are called "nodes" or "vertices" and the lines are called "edges"
   * The number of edges at a particular node is the "degree" of that node
     * All nodes in a square have degree 2
