@@ -60,3 +60,26 @@
     * According to the set {Scissors, Paper, Stone} and relation beats
       * Scissors beat Paper, Paper beats Stone, Stone beats Scissors
     * A binary relation R is an "equivalence relation" if R is reflexive, symmetric and transitive
+## Graph
+* A Graph is a set of points with lines connecting some of the points
+  * The points are called "nodes" or "vertices" and the lines are called "edges"
+  * The number of edges at a particular node is the "degree" of that node
+    * All nodes in a square have degree 2
+* In a Graph G that contains nodes a and b, the pair {a,b} represents the edge that connects a and b
+* If V is the set of nodes and E is the set of edges >> G = {V, E}
+  * Graph S(quare) = ({1,2,3,4}, {1,2},{1,3},{2,4},{3,4})
+    * Graph X = ({1,2,3}, {1,2},{1,3}) is the "subgraph" of Graph S
+* If we label the nodes and/or edges of a graph, which then is called a "labeled graph"
+* A "path" in a graph is a sequence of nodes connected by edges
+  * A "simple path" is a path that doesn't repeat any nodes
+  * A graph is "connected" if every two noods have a path between them
+  * A path is a "circuit(cycle)" if it starts and ends in the same node
+* A simple circuit in a graph is a non-empty trail in which the only repeated vertices are the first and last vertices
+  * A simple cycle contains at least 3 nodes
+* A graph is a "tree" if it is connected and has no simple circuit
+  * The nodes of the degree 1 in a tree, other than the root, are called the "leaves" of the tree
+* If a graph has arrows instead of lines, it is then called a "directed graph"
+  * The number of arrows pointing from a particular node is the outdegree of that node
+  * The number of arrows pointing to a particular node is the indegree of that node
+  * A path in which all the arrows point in the same direction as its steps is called a "directed path"
+  * A directed graph is strongly connected if a directed path connects every two noods
