@@ -83,3 +83,17 @@
   * The number of arrows pointing to a particular node is the indegree of that node
   * A path in which all the arrows point in the same direction as its steps is called a "directed path"
   * A directed graph is strongly connected if a directed path connects every two noods
+## Strings and Languages
+* The members of the "alphabet" are its symbols
+* The capital Greek letter &#8721; is used to designate alphabets
+* A "string" is a finite sequence of symbols from an alphabet, usually written next to one another and not separated by commas
+  * If &#8721;&#8321; = {0,1}, then "01001" is a string over &#8721;&#8321;
+* If w is a string, then |w| denotes the length of w, i.e. the numbers of the symbols that it contains
+* An empty string is written "&#1013;"
+* The reverse of w, written w&#0691; or flip(w), is the string obtained by writing w in the opposite order
+* String z is a substring of w if z appears consecutively within w
+* The concatenation of x and y is xy
+  * To concatenate a string with itself many times we use the superscript notation such as x&#7503;
+* The lexicographic ordering of all strings over the alphabet {0,1} is {&#1013;, 0, 1, 00, 01, 10, 11, 000, ...}
+  * Shorter strings precede longer strings
+* A "language" is a set of strings
