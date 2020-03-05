@@ -93,7 +93,7 @@
 * The reverse of w, written w&#0691; or flip(w), is the string obtained by writing w in the opposite order
 * String z is a substring of w if z appears consecutively within w
 * The concatenation of x and y is xy
-  * To concatenate a string with itself many times we use the superscript notation such as x&#7503;
+  * To concatenate a string with itself many times we use the superscript notation such as x&#8319;
 * The lexicographic ordering of all strings over the alphabet {0,1} is {&#1013;, 0, 1, 00, 01, 10, 11, 000, ...}
   * Shorter strings precede longer strings
 * A "language" is a set of strings
