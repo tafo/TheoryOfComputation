@@ -26,3 +26,6 @@ Symbol | Name | Remarks
 &#8345; | Latin Subscript Small Letter N | a&#8345; >> The nth element of A
 &#7522; | Latin Subscript Small Letter I | a&#7522; >> An element of A
 &#8594; | Rightwards Arrow | A &#8594; B
+&#8721; | N-ary Summation | &#8721;&#8321; = {0,1}
+&#1013; | Greek Lunate Epsilon Symbol | w = &#1013;
+&#0691; | MODIFIER LETTER SMALL R | w&#0691;
