@@ -31,6 +31,6 @@ Symbol | Name | Remarks
 &#0691; | MODIFIER LETTER SMALL R | w&#0691;
 &#0172; | Not Sign | Negation >> &#0172;TRUE = FALSE
 &#8743; | Logical And | Conjunction >> TRUE&#8743;FALSE = FALSE
-&#8744; | Logical Or | Disjunction >> TRUE&#8743;FALSE = TRUE
+&#8744; | Logical Or | Disjunction >> TRUE&#8744;FALSE = TRUE
 &#8596; | Left Right Arrow | Equality >> TRUE&#8596;FALSE = FALSE
 
