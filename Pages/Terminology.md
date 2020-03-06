@@ -97,3 +97,18 @@
 * The lexicographic ordering of all strings over the alphabet {0,1} is {&#1013;, 0, 1, 00, 01, 10, 11, 000, ...}
   * Shorter strings precede longer strings
 * A "language" is a set of strings
+## Boolean Logic
+* TRUE and FALSE are called the Boolean values
+  * They are often represented by the values 1(TRUE) and 0(FALSE)
+* We use boolean values in situations with two possibilities such as a proposition
+* The simplest boolean operation is the "negation" or NOT operation, designated with the symbol "&#0172;"
+* The conjunction, or Logical AND, operation is designated with the symbol "&#8743;"
+* The disjunction, or Logical OR, operation is designated with the symbol "&#8744;"
+  * The disjunction of two boolean values is 1(TRUE) if either of those values is 1(TRUE)
+* The values P and Q are the "operands" of "P &#8743; Q" operation
+* The exclusive XOR operation is TRUE(1) if either but not both of its two operands are TRUE(1)
+* The "equality" operation, written with the symbol "&#8596;", is 1 if both of its operands have the same value
+* The "implication" operation is designated by the symbol "&#8594;"
+  * The result is 0 if its first operand is 1 and its second operand is 0, otherwise it is 1
+* The "distributive law" for AND and OR comes in handy in manipulating boolean operations
+  * R &#8743; (P &#8744; Q) equals (R &#8743; P) &#8744; (R &#8743; Q)
