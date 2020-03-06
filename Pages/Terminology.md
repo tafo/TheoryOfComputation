@@ -63,6 +63,7 @@
 ## Graph
 * A graph is a set of points with lines connecting some of the points
   * The points are called "nodes" or "vertices" and the lines are called "edges"
+    * Vertice = Vertex
   * The number of edges at a particular node is the "degree" of that node
     * All nodes in a square have degree 2
 * In a Graph G that contains nodes a and b, the pair {a,b} represents the edge that connects a and b
