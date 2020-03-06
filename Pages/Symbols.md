@@ -29,3 +29,8 @@ Symbol | Name | Remarks
 &#8721; | N-ary Summation | &#8721;&#8321; = {0,1}
 &#1013; | Greek Lunate Epsilon Symbol | w = &#1013;
 &#0691; | MODIFIER LETTER SMALL R | w&#0691;
+&#0172; | Not Sign | Negation >> &#0172;TRUE = FALSE
+&#8743; | Logical And | Conjunction >> TRUE&#8743;FALSE = FALSE
+&#8744; | Logical Or | Disjunction >> TRUE&#8743;FALSE = TRUE
+&#8596; | Left Right Arrow | Equality >> TRUE&#8596;FALSE = FALSE
+
