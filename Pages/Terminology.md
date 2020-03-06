@@ -40,6 +40,7 @@
   * Cartesian product of a set with itself is written as A&#8319;
     * A&#8319; = (n times) Ax...xA = {(a&#8321;, a&#8322;, ..., a&#8345;) | a&#7522; &#8712; A for every i &#8712; {1,...,n}}
     * It is also called as the "n-ary cartesian power" of A
+* A "set" is a group of objects & a "sequence" is a list of objects
 ## Functions and Relations
 * A function is also called a mapping
   * if F(a) = b, we say that "F maps a to b"
