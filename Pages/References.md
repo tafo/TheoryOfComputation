@@ -9,4 +9,5 @@
   * Weisstein, Eric W. "Proof." From MathWorld--A Wolfram Web Resource. http://mathworld.wolfram.com/Proof.html
   * Weisstein, Eric W. "Corollary." From MathWorld--A Wolfram Web Resource. http://mathworld.wolfram.com/Corollary.html
   * Weisstein, Eric W. "Lemma." From MathWorld--A Wolfram Web Resource. http://mathworld.wolfram.com/Lemma.html
+  * Weisstein, Eric W. "Definition." From MathWorld--A Wolfram Web Resource. http://mathworld.wolfram.com/Definition.html
   
