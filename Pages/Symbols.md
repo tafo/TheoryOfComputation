@@ -33,4 +33,6 @@ Symbol | Name | Remarks
 &#8743; | Logical And | Conjunction >> TRUE&#8743;FALSE = FALSE
 &#8744; | Logical Or | Disjunction >> TRUE&#8744;FALSE = TRUE
 &#8596; | Left Right Arrow | Equality >> TRUE&#8596;FALSE = FALSE
-
+&#8660; | Left Right Double Arrow | P if and only if Q >> P &#8660; Q
+&#8658; | Rightwards Double Arrow | P only if Q >> P &#8658; Q
+&#8656; | Leftwards Double Arrow | P if Q >> P &#8656; Q
