@@ -44,11 +44,14 @@
     * Therefore x is not in A and x is not in B, and thus not in the union of these two sets
     * Hence x is in the complement of the union of these sets; in other words, x is in (A &#8746; B)<sup>c</sup> which completes the proof of the theorem
 ## Types of Proofs
-### Proof By Construction
+#### Proof By Construction
 Many theorems state that a particular type of object exists. One way to prove such a theorem is by demonstrating how to construct the object i.e. "proof by construction".
 
-Proof of "For each even number n greater than 2, there exists a 3-regular graph with n nodes" theorem
-> Let n be an even number greater than 2. Construct graph G = (N, E) with n nodes as follows<br />
-The set of nodes of G is N = {0, 1, ..., n - 1} <br />
-The set of edges of G is E = { {i, i + 1} | for 0 &le; i &le; n - 2 } &#8746; { {n - 1, 0} } &#8746; { {i, i + n/2} | for 0 &le; i &le; n/2 - 1 } <br />
+Theorem: For each even number n greater than 2, there exists a 3-regular graph with n nodes
+
+Proof: Let n be an even number greater than 2. Construct graph G = (N, E) with n nodes as follows.
+> The set of nodes of G is N = {0, 1, ..., n - 1}
+
+> The set of edges of G is E = { {i, i + 1} | for 0 &le; i &le; n - 2 } &#8746; { {n - 1, 0} } &#8746; { {i, i + n/2} | for 0 &le; i &le; n/2 - 1 }
+
 Picture the nodes of this graph written consecutively around the circumference of a circle. In that case the edges described in the first and second subset of E go between adjacent pairs around the circle. The edges described in the third subset of E go between nodes on opposite sides of the circle. This mental picture clearly shows that every node in G has degree 3
