@@ -48,7 +48,7 @@
 Many theorems state that a particular type of object exists. One way to prove such a theorem is by demonstrating how to construct the object i.e. "proof by construction".
 
 ###### Theorem
-For each even number n greater than 2, there exists a 3-regular graph with n nodes
+For each even number n greater than 2, there exists a 3-regular graph with n nodes.
 
 ###### Proof
 Let n be an even number greater than 2. Construct graph G = (N, E) with n nodes as follows.
