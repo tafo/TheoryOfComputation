@@ -10,4 +10,4 @@
   * Weisstein, Eric W. "Corollary." From MathWorld--A Wolfram Web Resource. http://mathworld.wolfram.com/Corollary.html
   * Weisstein, Eric W. "Lemma." From MathWorld--A Wolfram Web Resource. http://mathworld.wolfram.com/Lemma.html
   * Weisstein, Eric W. "Definition." From MathWorld--A Wolfram Web Resource. http://mathworld.wolfram.com/Definition.html
-* Wikipedia contributors. "Proof by contradiction." <b><i>Wikipedia, The Free Encyclopedia</i></b>. Wikipedia, The Free Encyclopedia, 25 Jan. 2020. Web. 11 Mar. 2020.
+* Proof by contradiction, https://en.wikipedia.org/w/index.php?title=Proof_by_contradiction&oldid=937470869 (last visited Mar. 11, 2020)
