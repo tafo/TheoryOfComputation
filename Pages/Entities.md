@@ -78,22 +78,22 @@ We assume that the square root of 2 is rational by contradiction. Thus
 
 where both m and n integers. If both m and n are divisible by the same integer greater than 1, divide both by that integer. Doing so does not change the value of fraction. Thus
 
-&#8730;2 = a/b
+&#8730;2 = x/y
 
-Now, **at least one of a and b must be an odd number**. We multiply both sides of equation by b and obtain 
+Now, **at least one of x and y must be an odd number**. We multiply both sides of equation by b and obtain 
 
-b&#8730;2 = a
+y&#8730;2 = x
 
 We square both sides and obtain 
 
-2b&#0178; = a&#0178;
+2y&#0178; = x&#0178;
 
-We know that a&#0178; is even. Therefore a, too, is even, as the square of an odd number can not be an even number. So we can write a = 2k for some integer k. Then, substituting 2k for a, we get
+We know that x&#0178; is even. Therefore x, too, is even, as the square of an odd number can not be an even number. So we can write x = 2k for some integer k. Then, substituting 2k for x, we get
 
-2b&#0178; = (2k)&#0178; = 4k&#0178;
+2y&#0178; = (2k)&#0178; = 4k&#0178;
 
 Dividing both sides by 2 we obtain
 
-b&#0178; = 2k&#0178;
+y&#0178; = 2k&#0178;
 
-But this result shows that b&#0178; is even hence that b is even. Thus we have established that both a and b are even. But we had earlier reduced **m and n** to **a and b** so that a and b were not both even, **a contradiction**.  
+But this result shows that y&#0178; is even hence that y is even. Thus we have established that both x and y are even. But we had earlier reduced **m and n** to **x and y** so that x and y were not both even, a **contradiction**.  
