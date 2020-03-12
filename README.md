@@ -2,7 +2,7 @@
 Summaries about how efficiently problems can be solved using algorithms. 
 
 ## [Terminology](Pages/Terminology.md)
-## [Proofs](Pages/Entities.md)
+## [Proofs](Pages/Proofs.md)
 ## [ToDo](Pages/ToDo.md)
 ## [Symbols](Pages/Symbols.md) 
 ## [References](Pages/References.md) 
