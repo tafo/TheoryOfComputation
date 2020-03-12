@@ -1,5 +1,5 @@
 # [Home](../README.md) 
-## Definitions, Theorems and Proofs
+## DEFINITIONS, THEOREMS AND PROOFS
 * "Definitions" describe the objects and notions that we use
   * When defining some object we must make clear what constitutes that object and what does not
   * A definition assigns properties to some sort of mathematical object
@@ -14,7 +14,7 @@
     * A short theorem used in proving a larger theorem
   * A "corollary" is a true statement that is a simple deduction from a thorem or proposition
     * A "proposition" is a less important but nonetheless interesting true statement
-## Finding Proofs
+## FINDING PROOFS
 * "P if and only if Q", often written "P iff Q", is designated as P &#8660; Q
   * The first part is "P only if Q", which means: If P is true, then Q is true, written P &#8658; Q
   * The second is "P if Q", which means: If Q is true, then P is true, written P &#8656; Q
@@ -43,14 +43,15 @@
     * Then x is in both A<sup>c</sup> &#8745; B<sup>c</sup>
     * Therefore x is not in A and x is not in B, and thus not in the union of these two sets
     * Hence x is in the complement of the union of these sets; in other words, x is in (A &#8746; B)<sup>c</sup> which completes the proof of the theorem
-## Types of Proofs
-#### Proof By Construction
+## TYPES OF PROOFS
+
+#### PROOF BY CONSTRUCTION
 Many theorems state that a particular type of object exists. One way to prove such a theorem is by demonstrating how to construct the object i.e. "proof by construction".
 
-###### Theorem
+**Theorem**:
 For each even number n greater than 2, there exists a 3-regular graph with n nodes.
 
-###### Proof
+**Proof**:
 Let n be an even number greater than 2. Construct graph G = (N, E) with n nodes as follows.
 
 The set of nodes of G is N = {0, 1, ..., n - 1}
@@ -59,7 +60,7 @@ The set of edges of G is E = { {i, i + 1} | for 0 &le; i &le; n - 2 } &#8746; { 
 
 Picture the nodes of this graph written consecutively around the circumference of a circle. In that case the edges described in the first and second subset of E go between adjacent pairs around the circle. The edges described in the third subset of E go between nodes on opposite sides of the circle. This mental picture clearly shows that every node in G has degree 3. 
 
-#### Proof By Contradiction
+#### PROOF BY CONTRADICTION
 
 We assume that the theorem is false and then show that this assumption leads to an obviously false consequence, called a "contradiction". It is also known as indirect proof, proof by assuming the opposite. It has the form of **reductio ad absurdum** argument, and usually proceeds as follows:
 
@@ -67,13 +68,13 @@ We assume that the theorem is false and then show that this assumption leads to 
 * It is then shown that &#0172;P implies two mutually contradictory assertions, Q and &#0172;Q.
 * Since Q and &#0172;Q cannot both be true, the assumption that P is false must be wrong, so P must be true. 
 
-###### Example
+**Example**:
 Proove by contradiction that the square root of 2 is an irrational number. A number is rational if it is a fraction m/n where m and n are integers; in other words, a rational number is the ratio of integers m and n. For example, 2/3 obviously is a rational number. A number is irrational if it is not rational. 
 
-###### Theorem
+**Theorem**:
 &#8730;2 is irrational.
 
-###### Proof
+**Proof**:
 We assume that the square root of 2 is rational by contradiction. Thus 
 
 &#8730;2 = m/n
@@ -100,7 +101,7 @@ y&#0178; = 2k&#0178;
 
 But this result shows that y&#0178; is even hence that y is even. Thus we have established that both x and y are even. But we had earlier reduced **m and n** to **x and y** so that x and y were not both even, a **contradiction**.  
 
-#### Proof By Induction
+#### PROOF BY INDUCTION
 
 Proof by induction is a advanced method used to show that all elements of an infinite set have a specified property. We may use proof by induction to show that a program works at all steps or for all inputs. 
 
@@ -114,7 +115,8 @@ The format of writing down a proof by induction is as follows.
 
 **Induction step**: For each i &ge; 1, assume that P(i) is true and use the assumption to show that P(i + 1) is true. 
 
-##### Example: **Sum of consecutive natural numbers**
+**Example**: Sum of consecutive natural numbers
+
 *P(n)*, holds for all natural numbers *n*
 
 0 + 1 + 2 + ... + n = n(n+1)/2
