@@ -58,7 +58,9 @@ The set of nodes of G is N = {0, 1, ..., n - 1}
 The set of edges of G is E = { {i, i + 1} | for 0 &le; i &le; n - 2 } &#8746; { {n - 1, 0} } &#8746; { {i, i + n/2} | for 0 &le; i &le; n/2 - 1 }
 
 Picture the nodes of this graph written consecutively around the circumference of a circle. In that case the edges described in the first and second subset of E go between adjacent pairs around the circle. The edges described in the third subset of E go between nodes on opposite sides of the circle. This mental picture clearly shows that every node in G has degree 3. 
+
 #### Proof By Contradiction
+
 We assume that the theorem is false and then show that this assumption leads to an obviously false consequence, called a "contradiction". It is also known as indirect proof, proof by assuming the opposite. It has the form of **reductio ad absurdum** argument, and usually proceeds as follows:
 
 * The proposition to be proved, P, is assumed to be false. That is, &#0172;P is true. 
@@ -97,3 +99,56 @@ Dividing both sides by 2 we obtain
 y&#0178; = 2k&#0178;
 
 But this result shows that y&#0178; is even hence that y is even. Thus we have established that both x and y are even. But we had earlier reduced **m and n** to **x and y** so that x and y were not both even, a **contradiction**.  
+
+#### Proof By Induction
+
+Proof by induction is a advanced method used to show that all elements of an infinite set have a specified property. We may use proof by induction to show that a program works at all steps or for all inputs. 
+
+The method of induction requires two cases to be proved. The first case, called the **base case**(or, sometimes, the **basis**), proves that the property holds for the number 0. The second case, called the **induction step**, proves that if the property holds for one natural number **i**, then it holds for the next natural number **i + 1**. These two steps establishes the property **P(i)** for every natural number i = 0, 1, 2, 3, ... The base does not necessarily begin with i = 0. In fact, it often begins with the number one(1), and it can begin with any natural number, establishing the truth of the property for all natural numbers greater than or equal to the starting number. In the induction step the assumption that **P(i)** is true is called the **induction hypothesis** 
+
+Mathematical induction should not be misconstrued as a form of inductive reasoning as used in *philosophy*. Mathematical induction is an inference rule used in formal proofs. Proofs by mathematical induction are, in fact, examples of deductive reasoning. 
+
+The format of writing down a proof by induction is as follows.
+
+**Basis**: Prove that P(i) is true. 
+
+**Induction step**: For each i &ge; 1, assume that P(i) is true and use the assumption to show that P(i + 1) is true. 
+
+##### Example: **Sum of consecutive natural numbers**
+*P(n)*, holds for all natural numbers *n*
+
+0 + 1 + 2 + ... + n = n(n+1)/2
+
+*P(n)* gives a formula for the sum of the natural numbers less than or equal to number *n*. The proof that *P(n)* is true for each natural number *n* proceeds as follows:
+
+**Proposition**: For any n &#8712; &#8469;, 0 + 1 + 2 + ... + n = n(n+1)/2
+
+**Proof**: Let *P(n)* be the statement 0 + 1 + 2 + ... + n = n(n+1)/2. We give a proof by induction on *n*.
+
+*Base Case*: Show that the statement holds for n = 0. *P(0)* is easily seen to be true:
+
+0 = 0.(0 + 1) / 2
+
+*Induction Step*: Show that for any k &ge; 0, if *P(k)* holds, then *P(k+1)* also holds. This can be done as follows.
+
+Assume the induction hypothesis that *P(k)* is true for some arbitrary value k &ge; 0. It must then be shown that *P(k+1)* is true, that is:
+
+(0 + 1 + 2 + ... + k) + (k + 1) = ( k+1 )( (k+1) + 1 ) / 2
+
+Using the induction hypothesis, the left-hand side can be equated to:
+
+k(k+1)/2 + (k+1)
+
+Algebraically, we have that:
+
+=> k(k+1)/2 + (k+1) 
+
+=> (k(k+1)+2(k+1))/2 
+
+=> (k+1)(k+2)/2 
+
+=> (k+1)((k+1)+1)/2
+
+which shows that *P(k+1)* indeed holds. 
+
+Since both the base case and the inductive step have been performed, by mathematical induction the statement *P(n)* holds for all natural numbers *n*.
