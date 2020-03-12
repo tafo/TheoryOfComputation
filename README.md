@@ -3,9 +3,9 @@ Summaries about how efficiently problems can be solved using algorithms.
 
 ## [Terminology](Pages/Terminology.md)
 ## [Proofs](Pages/Proofs.md)
-## [ToDo](Pages/ToDo.md)
 ## [Symbols](Pages/Symbols.md) 
 ## [References](Pages/References.md) 
+## [ToDo](Pages/ToDo.md)
 
 ### Notes
 
