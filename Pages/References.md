@@ -11,3 +11,4 @@
   * Weisstein, Eric W. "Lemma." From MathWorld--A Wolfram Web Resource. http://mathworld.wolfram.com/Lemma.html
   * Weisstein, Eric W. "Definition." From MathWorld--A Wolfram Web Resource. http://mathworld.wolfram.com/Definition.html
 * Proof by contradiction, https://en.wikipedia.org/w/index.php?title=Proof_by_contradiction&oldid=937470869 (last visited Mar. 11, 2020)
+* Mathematical induction, https://en.wikipedia.org/w/index.php?title=Mathematical_induction&oldid=944124395 (last visited Mar. 12, 2020)
