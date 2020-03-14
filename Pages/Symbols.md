@@ -37,3 +37,5 @@ Symbol | Name | Remarks
 &#8658; | Rightwards Double Arrow | P only if Q >> P &#8658; Q
 &#8656; | Leftwards Double Arrow | P if Q >> P &#8656; Q
 &#8804; | Less-Than or Equal To | Using &amp;le; >> 0 &le; i &le; n
+&#0948; | Greek Small Letter Delta | &#0948;: Q x &#8721; &#8594; Q
+&#8320; | Subscript Zero | k&#8320;
