@@ -39,3 +39,4 @@ Symbol | Name | Remarks
 &#8804; | Less-Than or Equal To | Using &amp;le; >> 0 &le; i &le; n
 &#0948; | Greek Small Letter Delta | &#0948;: Q x &#8721; &#8594; Q
 &#8320; | Subscript Zero | k&#8320;
+&#8331; | Subscript Minus | a&#7522;&#8331;&#8321;
